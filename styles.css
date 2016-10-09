@@ -1,0 +1,41 @@
+#header{
+	background:#b4b4bf;
+	width:1024px;
+	height:70px;
+}
+#name{
+	background:#f8ecdd;
+	width:690px;
+	height:50px;
+}
+#photo{
+	width:400px;
+	height:450px;
+	position:absolute;
+    left:705px;
+    top:105px;
+}
+#requisites{
+	background:#f8ecdd;
+	width:690px;
+	height:310px;
+	text-indent:1.2em;
+}
+#education{
+	background:#b4b4bf;
+	width:1024px;
+	height:200px;
+	text-indent:1.2em;
+}
+#job{
+	background:#f8ecdd;
+	width:1024px;
+	height:150px;
+	text-indent:1.2em;
+}
+#footer{
+	background:#b4b4bf;
+	width:1024px;
+	height:30px;
+}
+
